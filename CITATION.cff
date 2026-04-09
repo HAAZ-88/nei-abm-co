@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Social Program Governance ABM"
+message: "If you use this software, please cite the archived Zenodo release."
+type: software
+authors:
+  - family-names: "Argandoña"
+    given-names: "Herlan"
+version: 1.0.0
+date-released: 2026-04-08
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+abstract: >-
+  Agent-based model comparing hierarchical, delegated, and adaptive governance
+  arrangements in social program access under heterogeneous territorial
+  conditions, learning, congestion, screening frictions, and capture risks.
