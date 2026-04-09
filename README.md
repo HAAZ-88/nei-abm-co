@@ -89,5 +89,4 @@ Los materiales del repositorio se utilizan en el trabajo del siguiente modo:
 
 Véase `REPRODUCIBILITY.md` para los comandos exactos y las notas de ejecución.
 
-Véase `CITATION.cff` para los metadatos de cita. La versión citable y archivada
-corresponde al registro de Zenodo asociado a este repositorio.
+Véase `CITATION.cff` para los metadatos de cita.
